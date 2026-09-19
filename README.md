@@ -30,7 +30,7 @@ A vision model runs on your own Mac and writes down what it sees in each photo: 
 
 ## 2. You type a sentence
 
-"Emily and Gordon at golden hour, never before posted." The grid narrows as you type. Press Build it and it lays the photos out in the order of the day.
+"Jane & John Doe at golden hour, never before posted." The grid narrows as you type. Press Build it and it lays the photos out in the order of the day.
 
 ![The library filtered by one typed sentence, with six slides picked into a post](docs/build-it.jpg)
 
