@@ -6,23 +6,55 @@ Your best photos are sitting on a drive. OMS Pick finds the ones you meant to po
 
 I am Jon Low, a wedding photographer in Kuala Lumpur. I built this because I kept not posting.
 
-[**Download for Mac**](https://github.com/yitweng/oms-pick/releases/latest) · [What it does, with pictures](https://www.onemoreshot.net/pick/) · [Setup guide](https://www.onemoreshot.net/pick/)
+![The OMS Pick window: a wedding library on the left, a five-slide post being built on the right](docs/hero.jpg)
+
+### [⬇ Download for Mac](https://github.com/yitweng/oms-pick/releases/latest)
+
+136 MB · Apple silicon · signed and notarised, so it opens without a warning
+
+[See it in full](https://www.onemoreshot.net/pick/) · [Ask a question](https://github.com/yitweng/oms-pick/discussions)
 
 ---
 
-## What it does
+## 1. It reads your library
 
-**1. It reads your library.** A vision model runs on your own Mac and writes down what it sees in each photo: a caption, tags, who is in it, the setting, the mood. About 17 seconds a photo on an M1, so it runs at 2am while you sleep.
+A vision model runs on your own Mac and writes down what it sees in each photo: a caption, tags, who is in it, the setting, the mood. About 17 seconds a photo on an M1, so it runs at 2am while you sleep.
 
-**2. You type a sentence.** "Six photos from the beach ceremony." The grid narrows as you type. Press Build it and it lays the photos out in the order of the day.
+![A photo open in OMS Pick, with the tags, subjects, setting and mood the model wrote for it](docs/index.jpg)
 
-**3. It writes the caption in your voice.** Optional, and it needs your own Claude or DeepSeek key. It reads your last 100 captions and sounds like them. It sends words. Never pictures.
+## 2. You type a sentence
 
-**4. It posts.** Straight to Instagram and Facebook. Or drop it on a calendar grid and it goes out on time from the menu bar.
+"Emily and Gordon at golden hour, never before posted." The grid narrows as you type. Press Build it and it lays the photos out in the order of the day.
+
+![The library filtered by one typed sentence, with six slides picked into a post](docs/build-it.jpg)
+
+## 3. It lays out the carousel
+
+It leads with the strongest frame and breaks up similar shots, so a carousel does not read as four of the same view. Drag a slide onto another to swap. Double-click to crop.
+
+![The post panel showing the chosen slides and why they were ordered that way](docs/caption.jpg)
+
+## 4. It writes the caption, in your voice
+
+Optional, and it uses your own Claude or DeepSeek key. It reads your last 100 captions and sounds like them. It sends words. Never pictures.
+
+## 5. It posts
+
+Straight to Instagram and Facebook. Every step shows as it happens. Or drop it on a calendar and it goes out on time from the menu bar.
+
+![A scheduled post uploading to Facebook, photo 8 of 10](docs/post.jpg)
+
+## A week of posts from one sentence
+
+"Make me 7 days of posts from different events, 5 photos each, from 1 October." Seven carousels, seven dates, ready for you to check. Nothing goes out until you press Schedule.
+
+![The 7 posts sheet, with the dates it will use and a Start making button](docs/week.jpg)
+
+---
 
 ## Nothing leaves your Mac
 
-Your photographs are never uploaded to me or to anyone else. The index runs locally. The library stays where it is, and your original files are never moved or changed.
+Your photographs are never uploaded to me or to anyone else. The index runs locally. Your original files are never moved or changed.
 
 Two honest footnotes, because a privacy claim with an asterisk hidden at the bottom is worth nothing:
 
@@ -38,7 +70,7 @@ No key, no account, no model if you do not want one. Point it at a folder, click
 | | |
 |---|---|
 | **Mac** | Apple silicon. M1 or newer. |
-| **Reading photos** | [Ollama](https://ollama.com), free, running on your Mac. The first run points you to it and pulls the model for you. |
+| **Reading photos** | [Ollama](https://ollama.com), free, running on your Mac. The first run points you to it and pulls the model. |
 | **Posting** | An Instagram business or creator account, a Facebook Page, or both. |
 | **Captions** | Your own Claude or DeepSeek key. Optional. |
 | **Setup** | About twenty minutes, once. Written out step by step, with pictures. |
@@ -50,11 +82,11 @@ No key, no account, no model if you do not want one. Point it at a folder, click
 2. Drag it to Applications and open it.
 3. The first run checks for Ollama, pulls the vision model, and asks for one folder to start with.
 
-It is signed and notarised by Apple, so it opens without a warning. After that it updates itself.
+After that it updates itself.
 
 ## Why you set up your own Meta app
 
-Meta will not let one app post to another person's Instagram account without their App Review, which is pending. Until it clears, each photographer makes their own Meta app, which takes about twenty minutes once. The guide walks every click.
+Meta will not let one app post to another person's Instagram account without their App Review, which is pending. Until it clears, each photographer makes their own Meta app. It takes about twenty minutes, once, and the guide walks every click.
 
 It has a side benefit worth keeping either way: posts carry **your own studio name**, not mine.
 
