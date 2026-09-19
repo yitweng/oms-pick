@@ -2,9 +2,9 @@
 
 **Post your photos to Instagram and Facebook from your Mac. Free.**
 
-Your best photos are sitting on a drive. OMS Pick finds the ones you meant to post, and posts them. No uploads to anybody's website, no subscription, no account in the middle.
+Your best photos are sitting on a drive. OMS Pick finds the ones you meant to post, and posts them. Your library of photos stays on your Mac, no uploads to anybody's website, no subscription, no account in the middle.
 
-I am Jon Low, a wedding photographer in Kuala Lumpur. I built this because I kept not posting.
+I am Jon Low, a wedding photographer in Kuala Lumpur. I have an issue to stay active on Instagram and Facebook, so I created this app to feature the photographs that I captured.
 
 ![The OMS Pick window: a wedding library on the left, a five-slide post being built on the right](docs/hero.jpg)
 
