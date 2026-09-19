@@ -18,7 +18,7 @@ I am Jon Low, a wedding photographer in Kuala Lumpur. I have an issue to stay ac
 
 [![I built a killer Instagram app for photographers](docs/film.jpg)](https://youtu.be/UH4Jl5KN_sc)
 
-Ten minutes on what it does and why I built it. [The rest of the videos are here.](https://www.youtube.com/playlist?list=PLQJcyZ49JRiU)
+Ten minutes on what it does and why I built it.
 
 ---
 
