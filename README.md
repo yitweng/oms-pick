@@ -14,6 +14,12 @@ I am Jon Low, a wedding photographer in Kuala Lumpur. I have an issue to stay ac
 
 [See it in full](https://www.onemoreshot.net/pick/) · [Ask a question](https://github.com/yitweng/oms-pick/discussions)
 
+### Watch the film
+
+[![I built a killer Instagram app for photographers](docs/film.jpg)](https://youtu.be/UH4Jl5KN_sc)
+
+Ten minutes on what it does and why I built it. [The rest of the videos are here.](https://www.youtube.com/playlist?list=PLQJcyZ49JRiU)
+
 ---
 
 ## 1. It reads your library
