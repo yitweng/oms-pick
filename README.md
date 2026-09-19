@@ -12,7 +12,7 @@ I am Jon Low, a wedding photographer in Kuala Lumpur. I have an issue to stay ac
 
 136 MB · Apple silicon · signed and notarised, so it opens without a warning
 
-[See it in full](https://www.onemoreshot.net/pick/) · [Ask a question](https://github.com/yitweng/oms-pick/discussions)
+[See it in full](https://www.onemoreshot.net/pick/) · [What changed](CHANGELOG.md) · [Ask a question](https://github.com/yitweng/oms-pick/discussions)
 
 ### Watch the film
 
