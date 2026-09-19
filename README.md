@@ -100,6 +100,10 @@ It has a side benefit worth keeping either way: posts carry **your own studio na
 
 This repository carries the releases. The app is not open source today. It is a solo project I still make my living around, and I would rather ship it than manage a fork queue. Ask me anything about how it works and I will answer.
 
+## Hear about the next one
+
+The app updates itself, so you never need me for that. But if you want to know when there is a new version, or whatever I make next, leave an address at [onemoreshot.net/pick](https://www.onemoreshot.net/pick/). One line now and then, and never sold.
+
 ## Questions
 
 Open a [Discussion](https://github.com/yitweng/oms-pick/discussions). I read all of them.
